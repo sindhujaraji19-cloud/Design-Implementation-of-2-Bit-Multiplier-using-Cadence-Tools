@@ -45,23 +45,25 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ### Schematicand Symbol of 2-Input AND Gate:
 
-![Screenshot 2025-05-10 160454](https://github.com/user-attachments/assets/7a700f59-c4b4-4006-b791-0a4edf7d1e57)
+<img width="1920" height="1080" alt="Screenshot (519)" src="https://github.com/user-attachments/assets/29b4db89-e37f-409a-a3a3-a761b15247af" />
 
-![Screenshot 2025-05-10 160505](https://github.com/user-attachments/assets/4031c7a7-7c0f-4397-a936-ac4f90c4f402)
+<img width="1920" height="1080" alt="Screenshot (523)" src="https://github.com/user-attachments/assets/a17df61f-b48b-4f4f-b3cb-631b5a32ebc6" />
 
 ### Schematicand Symbol of 2-Input EX-OR Gate:
 
-![Screenshot 2025-05-10 160515](https://github.com/user-attachments/assets/880ad1be-e8b3-4111-b2ea-2b2c7eb1fd14)
+<img width="1920" height="1080" alt="Screenshot (520)" src="https://github.com/user-attachments/assets/f7643ead-e46b-4fda-b4a4-078001ac3f7f" />
 
-![Screenshot 2025-05-10 160523](https://github.com/user-attachments/assets/4230854b-5f8e-43d0-9875-258b457660e3)
+<img width="1920" height="1080" alt="Screenshot (524)" src="https://github.com/user-attachments/assets/1e36aac3-bf33-4801-bede-8a9c08af3961" />
 
 ### Schematicand Symbol of Half Adder:
-![Screenshot 2025-05-10 160535](https://github.com/user-attachments/assets/5d98f983-d6b7-42b9-8f16-17407b2010b2)
 
-![Screenshot 2025-05-10 161100](https://github.com/user-attachments/assets/bfaa7af0-6785-46e4-b434-87d677af5807)
+<img width="1920" height="1080" alt="Screenshot (521)" src="https://github.com/user-attachments/assets/d758d6fb-28bc-481e-abc9-4bfa08d69b21" />
+
+<img width="1920" height="1080" alt="Screenshot (525)" src="https://github.com/user-attachments/assets/eb071363-8531-42e4-8657-aa7f470f2c08" />
 
 ### Schematic of 2-Bit Multiplier:
-![Screenshot 2025-05-10 162446](https://github.com/user-attachments/assets/5b4b78a1-5812-4789-85ec-60324c2b5968)
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/187be364-d03d-403f-ad41-6eb3c79e6e6d" />
 
 ## Output
 ### Transient Analysis Output:
@@ -69,8 +71,7 @@ The aim is to design and implement a **2-bit Multiplier** using **Cadence Virtuo
 
 ![image](https://github.com/user-attachments/assets/55864d90-af08-4836-bc90-4cbba80573f8)
 
-
-![Screenshot 2025-05-15 152538](https://github.com/user-attachments/assets/694df39e-3505-4cf1-ae99-21bc428300b7)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e5b3484-62bc-45a1-bed2-84febef8adf0" />
 
 Run Time : 200ns
 
